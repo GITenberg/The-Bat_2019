@@ -1,0 +1,33 @@
+_repo: The-Bat_2019
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+  - agent_name: Hopwood, Avery
+    birthdate: 1882
+    deathdate: 1928
+    gutenberg_agent_id: '788'
+    url: http://www.gutenberg.org/2009/agents/788
+description: Poli's Theatre, S.Z. Poli, proprietor, presenting Shubert attractions.
+  Wagenhals & Kemper present "The Bat," by Mary Roberts Rinehart and Avery Hopwood
+  (authors of 'Spanish Love'). The play staged under the direction of Collin Kemper,
+  scenery by Gates and Morange, ladies' costumes by Bonwit Teller Co.
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- GITenberg
+title: The Bat
+url: http://www.gutenberg.org/ebooks/2019
